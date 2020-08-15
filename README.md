@@ -2,7 +2,7 @@
 
 **This is turtle85917's laboratory!**
 
-| Language used                                                                  |
+| Language use                                                                   |
 | ------------------------------------------------------------------------------ |
 | [Python](https://pypi.org/)                                                    |
 | [Nodejs](https://nodejs.org/en/)                                               |

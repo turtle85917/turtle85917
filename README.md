@@ -2,12 +2,16 @@
 
 **This is turtle85917's laboratory!**
 
-| Language use                                                                   |
+| learning Language                                                              |
 | ------------------------------------------------------------------------------ |
-| [Python](https://pypi.org/)                                                    |
-| [Nodejs](https://nodejs.org/en/)                                               |
-| Html                                                                           |
-| Css                                                                            |
+| MySQL                                                                          |
+| SQLite3                                                                        |
+| Python                                                                         |
+| Nodejs                                                                         |
+| C                                                                              |
+| Java                                                                           |
+| ------------------------------------------------------------------------------ |
+
 
 [![Total Stats](https://github-readme-stats.vercel.app/api?username=turtle85917&show_icons=true&theme=red)](https://github.com/turtle85917)
 

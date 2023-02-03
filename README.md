@@ -8,10 +8,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fturtle85917%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 ![GitHub followers](https://img.shields.io/github/followers/turtle85917?style=flat-square)
 > <h2>Details</h2>
-> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turtle85917&include_all_commits=true&count_private=true&show_icons=true&theme=radical&text_color=77ddff&custom_title=Github%20Stats">
+> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turtle85917&include_all_commits=true&count_private=true&show_icons=true&theme=dark&custom_title=Github%20Stats">
 
 # Languages
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle85917&layout=compact&theme=radical&text_color=77ddff&langs_count=8">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle85917&layout=compact&theme=dark&langs_count=15">
 
 > <h2>Details</h2>
 > <details>
@@ -42,4 +42,4 @@
 # Wakatime
 [![wakatime](https://wakatime.com/badge/user/c29abea7-bc2e-4b0f-950d-4a2d3e363f5b.svg)](https://wakatime.com/@c29abea7-bc2e-4b0f-950d-4a2d3e363f5b)
 > <h2>Details</h2>
-> <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=pulto&theme=dark&text_color=6ca5e1">
+> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pulto&theme=dark&langs_count=15">

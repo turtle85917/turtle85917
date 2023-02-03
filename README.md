@@ -16,6 +16,9 @@
 > <img src="https://github-readme-stats.vercel.app/api?username=turtle85917&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&custom_title=Github%20Stats">
 <a href="#----pultodom-플로토돔">⏫ Rise to the top ⏫</a>
 
+# Projects
+*(Preparing...)*
+
 # Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle85917&layout=compact&theme=tokyonight&langs_count=15">
 

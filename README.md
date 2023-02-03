@@ -20,7 +20,7 @@
 > </details>
 > <details>
   > <summary>Backend</summary>
-  > <img src="https://img.shields.io/badge/javascript-%23DEC81C.svg?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white">
+  > <img src="https://img.shields.io/badge/javascript-%23DEC81C.svg?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/NODE.JS-%23026E00.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white">
 > </details>
 > <details>
   > <summary>Framework</summary>
@@ -32,10 +32,14 @@
 > </details>
 > <details>
   > <summary>Database</summary>
-  > <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-%238B8B8B.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  > <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-%238B8B8B.svg?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/FIREBASE-%23FFCB2B?style=for-the-badge&logo=firebase&logoColor=white">
+> </details>
+> <details>
+  > <summary>Etc...</summary>
+  > <img src="https://img.shields.io/badge/Aseprite-%237D929E.svg?style=for-the-badge&logo=Aseprite&logoColor=white">
 > </details>
 
-# Waktatime
+# Wakatime
 [![wakatime](https://wakatime.com/badge/user/c29abea7-bc2e-4b0f-950d-4a2d3e363f5b.svg)](https://wakatime.com/@c29abea7-bc2e-4b0f-950d-4a2d3e363f5b)
 > <h2>Details</h2>
-> <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=pulto&layout=compact&theme=radical&text_color=77ddff&langs_count=8&range=all_time">
+> <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=pulto&theme=dark&text_color=6ca5e1">

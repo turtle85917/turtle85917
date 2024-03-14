@@ -1,12 +1,11 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/turtle85917/turtle85917/50c9d11c08a7e5a563f447816fcec876f8551bfb/imgs/wave.svg" width="40px">
-  Pultodom <a href="https://pulotodom.vercel.app/">플로토돔</a>
+  Pulto <a>플토</a>
 </h1>
 
 # Features
 - <a href="#Github">Github</a>
 - <a href="#Languages">Languages</a>
-- <a href="#Wakatime">Wakatime</a>
 
 # Github
 [![Github Badge](https://img.shields.io/badge/-turtle85917-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/turtle85917/)](https://www.github.com/turtle85917/)
@@ -14,10 +13,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/turtle85917?style=flat-square)
 > <h2>Details</h2>
 > <img src="https://github-readme-stats.vercel.app/api?username=turtle85917&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&custom_title=Github%20Stats">
-<a href="#----pultodom-플로토돔">⏫ Rise to the top ⏫</a>
-
-# Projects
-*(Preparing...)*
 
 # Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle85917&layout=compact&theme=tokyonight&langs_count=15">
@@ -47,10 +42,3 @@
   > <summary>Etc...</summary>
   > <img src="https://img.shields.io/badge/Aseprite-%237D929E.svg?style=for-the-badge&logo=Aseprite&logoColor=white">
 > </details>
-<a href="#----pultodom-플로토돔">⏫ Rise to the top ⏫</a>
-
-# Wakatime
-[![wakatime](https://wakatime.com/badge/user/c29abea7-bc2e-4b0f-950d-4a2d3e363f5b.svg)](https://wakatime.com/@c29abea7-bc2e-4b0f-950d-4a2d3e363f5b)
-> <h2>Details</h2>
-> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pulto&theme=tokyonight&langs_count=15">
-<a href="#----pultodom-플로토돔">⏫ Rise to the top ⏫</a>

@@ -41,5 +41,6 @@
 > <details>
   > <summary>Etc...</summary>
   > <img src="https://img.shields.io/badge/Aseprite-%237D929E.svg?style=for-the-badge&logo=Aseprite&logoColor=white">
+  > <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
   > <img src="https://img.shields.io/badge/csharp-%239B4F96.svg?style=for-the-badge&logo=csharp&logoColor=white">
 > </details>

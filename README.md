@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/node.js-%23026E00.svg?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   </div>
-  
+
   ## Front-end
   <div>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -41,26 +41,26 @@
     <img src="https://img.shields.io/badge/TailwindCSS-%2338BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img src="https://img.shields.io/badge/StyledComponents-%23BF4F74?style=for-the-badge&logo=styledcomponents&logoColor=white">
   </div>
-  
+
   ## Back-end
   <div>
     <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white">
   </div>
-  
+
   ## Framework
   <div>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white">
   </div>
-  
+
   ## Client
   <div>
     <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white">
     <img src="https://img.shields.io/badge/Godot-%23478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
   </div>
-  
+
   ## Database
   <div>
     <img src="https://img.shields.io/badge/Mysql-%23136494.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -68,12 +68,12 @@
     <img src="https://img.shields.io/badge/SQLite-%238B8B8B.svg?style=for-the-badge&logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/FIREBASE-%23FFCB2B?style=for-the-badge&logo=firebase&logoColor=white">
   </div>
-  
+
   ## PS
   <div>
     <img src="https://img.shields.io/badge/c++-%23004482.svg?style=for-the-badge&logo=cplusplus&logoColor=white">
   </div>
-  
+
   ## Graphic
   <div>
     <img src="https://img.shields.io/badge/figma-%232D3038?style=for-the-badge&logo=figma&logoColor=white">

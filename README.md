@@ -1,20 +1,16 @@
-<div style="font-size: 3rem; text-align: center">
-  Peulto <span style="font-size: 1.4rem">플토</span>
-</div>
+<h1 align="center">
+  Peulto
+  <sub>플토</sub>
+</h1>
+
 <br />
 <br />
 
 # Index
-- <a href="#Github">Github</a>
 - <a href="#Stats">Stats</a>
 - <a href="#Skills">Skills</a>
 
 <br />
-<br />
-
-# Github
-[![Github Badge](https://img.shields.io/badge/-turtle85917-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/turtle85917/)](https://www.github.com/turtle85917/)
-![GitHub followers](https://img.shields.io/github/followers/turtle85917?style=flat-square)
 
 # Stats
 ## Github Stats
